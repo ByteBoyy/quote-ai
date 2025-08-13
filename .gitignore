@@ -1,0 +1,19 @@
+quotation-venv
+attachments
+TEMP_CENSUS_FILE_PATH
+Benefits Table.pdf
+__pycache__/
+attachments/
+email_cache/
+wellx-ai-staging.json
+token.json
+temp_attachments/
+quotation_venv
+*.pdf
+quotation_venv
+test.ipynb
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
